@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\yendi\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
